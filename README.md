@@ -6,3 +6,5 @@ classifying propaganda techniques.
 classification, achieving up to 89% accuracy.
 - Deployed the fine-tuned models on Hugging Face and created Gradio spaces for both text and zero-shot
 classification models.
+
+![alt text](HuggingFaceSpaces.png)
