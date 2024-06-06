@@ -112,13 +112,13 @@ plt.show()
 
 
     
-![png](output_5_1.png)
+![png](img/output_5_1.png)
     
 
 
 
     
-![png](output_5_2.png)
+![png](img/output_5_2.png)
     
 
 
@@ -462,13 +462,13 @@ plot_summary_length_distribution()
 
 
     
-![png](output_32_0.png)
+![png](img/output_32_0.png)
     
 
 
 
     
-![png](output_32_1.png)
+![png](img/output_32_1.png)
     
 
 
@@ -505,7 +505,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](img/output_33_0.png)
     
 
 
@@ -565,7 +565,7 @@ ft_final_data = final_data(new_df3,saved_overall3, "fasttext")
 
 
     
-![png](output_36_1.png)
+![png](img/output_36_1.png)
     
 
 
@@ -576,7 +576,7 @@ ft_final_data = final_data(new_df3,saved_overall3, "fasttext")
 
 
     
-![png](output_36_3.png)
+![png](img/output_36_3.png)
     
 
 
@@ -587,7 +587,7 @@ ft_final_data = final_data(new_df3,saved_overall3, "fasttext")
 
 
     
-![png](output_36_5.png)
+![png](img/output_36_5.png)
     
 
 
@@ -819,7 +819,7 @@ log_reg(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_42_1.png)
+![png](img/output_42_1.png)
     
 
 
@@ -834,7 +834,7 @@ log_reg(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_42_3.png)
+![png](img/output_42_3.png)
     
 
 
@@ -849,7 +849,7 @@ log_reg(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_42_5.png)
+![png](img/output_42_5.png)
     
 
 
@@ -875,7 +875,7 @@ random_forest(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_44_1.png)
+![png](img/output_44_1.png)
     
 
 
@@ -890,7 +890,7 @@ random_forest(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_44_3.png)
+![png](img/output_44_3.png)
     
 
 
@@ -905,7 +905,7 @@ random_forest(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_44_5.png)
+![png](img/output_44_5.png)
     
 
 
@@ -945,7 +945,7 @@ cnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_46_1.png)
+![png](img/output_46_1.png)
     
 
 
@@ -977,7 +977,7 @@ cnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_46_3.png)
+![png](img/output_46_3.png)
     
 
 
@@ -1011,7 +1011,7 @@ cnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_46_5.png)
+![png](img/output_46_5.png)
     
 
 
@@ -1055,7 +1055,7 @@ rnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_48_1.png)
+![png](img/output_48_1.png)
     
 
 
@@ -1093,7 +1093,7 @@ rnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_48_3.png)
+![png](img/output_48_3.png)
     
 
 
@@ -1131,7 +1131,7 @@ rnn(X_train_ft, X_test_ft, y_train_ft, y_test_ft,'Fasttext')
 
 
     
-![png](output_48_5.png)
+![png](img/output_48_5.png)
     
 
 
@@ -1200,7 +1200,7 @@ plt.show()
 
 
     
-![png](output_52_1.png)
+![png](img/output_52_1.png)
     
 
 
@@ -1297,7 +1297,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](img/output_56_0.png)
     
 
 
